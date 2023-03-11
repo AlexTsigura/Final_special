@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Программирование\Final_special\Final_progaramm\bin\Debug\net6.0\Final_progaramm.exe
+C:\Users\Admin\Desktop\Программирование\Final_special\Final_progaramm\bin\Debug\net6.0\Final_progaramm.deps.json
+C:\Users\Admin\Desktop\Программирование\Final_special\Final_progaramm\bin\Debug\net6.0\Final_progaramm.runtimeconfig.json
+C:\Users\Admin\Desktop\Программирование\Final_special\Final_progaramm\bin\Debug\net6.0\Final_progaramm.dll
+C:\Users\Admin\Desktop\Программирование\Final_special\Final_progaramm\bin\Debug\net6.0\Final_progaramm.pdb
+C:\Users\Admin\Desktop\Программирование\Final_special\Final_progaramm\obj\Debug\net6.0\Final_progaramm.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Программирование\Final_special\Final_progaramm\obj\Debug\net6.0\Final_progaramm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Программирование\Final_special\Final_progaramm\obj\Debug\net6.0\Final_progaramm.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Программирование\Final_special\Final_progaramm\obj\Debug\net6.0\Final_progaramm.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Программирование\Final_special\Final_progaramm\obj\Debug\net6.0\Final_progaramm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Программирование\Final_special\Final_progaramm\obj\Debug\net6.0\Final_progaramm.dll
+C:\Users\Admin\Desktop\Программирование\Final_special\Final_progaramm\obj\Debug\net6.0\refint\Final_progaramm.dll
+C:\Users\Admin\Desktop\Программирование\Final_special\Final_progaramm\obj\Debug\net6.0\Final_progaramm.pdb
+C:\Users\Admin\Desktop\Программирование\Final_special\Final_progaramm\obj\Debug\net6.0\Final_progaramm.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Программирование\Final_special\Final_progaramm\obj\Debug\net6.0\ref\Final_progaramm.dll
